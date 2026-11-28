@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28",
+  "baseURL": "https://henryverse.github.io/inkstudio-support/models/",
+  "provenance": {
+    "author": "henryverse",
+    "year": 2026,
+    "method": "Procedurally generated from original geometry definitions",
+    "generator": "InkStudio demo builder",
+    "sourceScript": "make_glb.py",
+    "sourceCommit": "944580691e296c8c455ee55c01f0fc52e7df9eac",
+    "reproducible": true
+  },
+  "license": "Copyright 2026 henryverse. All rights reserved.",
+  "models": [
+    {
+      "id": "pip",
+      "name": "Pip",
+      "description": "A friendly round robot with a visor and antenna.",
+      "path": "Pip.glb",
+      "url": "https://henryverse.github.io/inkstudio-support/models/Pip.glb",
+      "format": "glTF 2.0 binary",
+      "mediaType": "model/gltf-binary",
+      "bytes": 902220,
+      "sha256": "add83cd01d375ee6ebd999be9a3dbd4fb4ca2af4e4ade842f0c7e74c4b4e473b"
+    },
+    {
+      "id": "orbit",
+      "name": "Orbit",
+      "description": "A sculptural pedestal with gold rings and an emissive orb.",
+      "path": "Orbit.glb",
+      "url": "https://henryverse.github.io/inkstudio-support/models/Orbit.glb",
+      "format": "glTF 2.0 binary",
+      "mediaType": "model/gltf-binary",
+      "bytes": 254600,
+      "sha256": "83738d56846eb600760bf1646fab237528df0cc12356aa6281e72e5c8c934d90"
+    }
+  ]
+}
